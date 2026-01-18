@@ -1,0 +1,9 @@
+name = "mind"
+compatibility_date = "2026-01-18"
+
+[assets]
+directory = "./dist"
+
+[[routes]]
+pattern = "swachchhandadahal.com.np"
+custom_domain = true
